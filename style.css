@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: fantasy;
+}
+
+ul{
+
+    display: flex;
+    list-style-type: none;
+    font-size: 30px;
+}
+li{
+    margin-left: 20px;
+}
+header{
+    background-color: beige;
+}
+body{
+
+}
+.cont1{
+    margin-top: 50px;
+}
+h2{
+    text-align: center;
+}
+.cont2{
+    margin-top: 50px;
+}
